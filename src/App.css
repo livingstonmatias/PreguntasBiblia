@@ -1,0 +1,35 @@
+.App {
+  display: grid;
+  grid-template-rows: 60px 1fr 60px;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(32, 32, 32, 1);
+  color: white;
+}
+.AppHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.AppContent {
+  margin-top: 100px;
+}
+.AppFooter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-rounded {
+  border-radius: 30px;
+}
+.Pregunta {
+  font-size: 18px;
+  text-align: center;
+}
+.Respuestas {
+  margin: 1rem;
+  font-size: 1.2rem;
+}
+.ModalVersiculo {
+  min-height: calc(100vh - 100px);
+}

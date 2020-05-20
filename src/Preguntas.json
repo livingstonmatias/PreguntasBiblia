@@ -1,0 +1,84 @@
+[
+  {
+    "pregunta": "¿Cuál fue el primer hijo de Adán y Eva?",
+    "respuestas": ["Abel", "Caín", "Set"],
+    "correcta": "Caín",
+    "ver": "Gn4:1"
+  },
+  {
+    "pregunta": "¿Cuál fue la décima plaga de Egipto?",
+    "respuestas": ["Muerte de los primogénitos", "Langostas", "Piojos"],
+    "correcta": "Muerte de los primogénitos",
+    "ver": "Ex1:1"
+  },
+  {
+    "pregunta": "¿Cuál de estas era la esposa de Jacob?",
+    "respuestas": ["Rebeca", "Sara", "Raquel"],
+    "correcta": "Raquel",
+    "ver": "Gn29:28"
+  },
+  {
+    "pregunta": "¿Cuál de estos hombres murió decapitado?",
+    "respuestas": ["Pedro", "Juan", "Juan Bautista"],
+    "correcta": "Juan Bautista",
+    "ver": "Mt14:8-9"
+  },
+  {
+    "pregunta": "¿El velo del santuario se rasgó de arriba abajo en qué ocasión?",
+    "respuestas": [
+      "En la santa cena",
+      "En la resurrección",
+      "En la muerte de Cristo"
+    ],
+    "correcta": "En la muerte de Cristo",
+    "ver": "Mt27:50-51"
+  },
+  {
+    "pregunta": "¿En qué libro de la Biblia se describe la Nueva Jerusalén?",
+    "respuestas": ["Apocalipsis", "Éxodo", "Hebreos"],
+    "correcta": "Apocalipsis",
+    "ver": "Re21:2"
+  },
+  {
+    "pregunta": "¿Cuál de los apóstoles de Cristo era cobrador de impuestos?",
+    "respuestas": ["Judas", "Levi Mateo", "Natanael"],
+    "correcta": "Levi Mateo",
+    "ver": "Mt9:9"
+  },
+  {
+    "pregunta": "¿En qué libro de la Biblia se cuenta la historia de la torre de Babel?",
+    "respuestas": ["Daniel", "Joshua", "Génesis"],
+    "correcta": "Génesis",
+    "ver": "Gn11:1-9"
+  },
+  {
+    "pregunta": "¿Qué libro de la Biblia habla del foso de los leones?",
+    "respuestas": ["Jueces", "Samuel", "Daniel"],
+    "correcta": "Daniel",
+    "ver": "Dn6:7"
+  },
+  {
+    "pregunta": "¿Cuál de esos personajes abrió el mar rojo?",
+    "respuestas": ["Noé", "Josue", "Moisés"],
+    "correcta": "Moisés",
+    "ver": "Ex14:21"
+  },
+  {
+    "pregunta": "¿Qué personaje bíblico se lavó las manos en público?",
+    "respuestas": ["Pilato", "Naamán", "Caifás"],
+    "correcta": "Pilato",
+    "ver": "Mt27:24"
+  },
+  {
+    "pregunta": "¿En qué ciudad nació Jesús?",
+    "respuestas": ["Nazaret", "Capernaum", "Belén"],
+    "correcta": "Belén",
+    "ver": "Mt2:1"
+  },
+  {
+    "pregunta": "¿Quién era Rebeca?",
+    "respuestas": ["Madre de Moisés", "Esposa de Isaac", "Hija de Jacob"],
+    "correcta": "Esposa de Isaac",
+    "ver": "Gn24:67"
+  }
+]
